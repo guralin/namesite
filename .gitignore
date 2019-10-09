@@ -2,5 +2,3 @@ __pycache__/
 .env
 db.sqlite3
 .python-version
-local_settings.py
-
