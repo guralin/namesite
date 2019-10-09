@@ -38,6 +38,7 @@ ALLOWED_HOSTS.append(env('MYSERVER_URL'))
 # Application definition
 
 INSTALLED_APPS = [
+    'introduction.apps.IntroductionConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
