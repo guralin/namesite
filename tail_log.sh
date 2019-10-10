@@ -1,3 +1,3 @@
 #!/bin/bash
 
-tail -F /var/log/namesite/app.log
+tail -F /var/log/django_site/app.log
